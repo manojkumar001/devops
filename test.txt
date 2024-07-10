@@ -1,4 +1,7 @@
 echo " hello manoj"
+
+echo " added from mobile"
+
 echo "hi manoj how are you "
 echo " hi i am fine"
 
